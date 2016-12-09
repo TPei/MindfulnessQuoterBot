@@ -29,6 +29,8 @@ If there are persisting problem with this bot or you'd like to request changes, 
       MESSAGE
     elsif args[0].include?('/quote')
       RandomQuoter.quote
+    elsif ['what?', 'wat', 'wat?'].include? args[0].downcase
+      'Think about it man!'
     elsif args[0].start_with? '/'
       'Sorry, but I do not know that command'
     else
