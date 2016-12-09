@@ -1,10 +1,28 @@
 {
   "quotes": [
     {
-      "what": "Mindfully breathe for 10 seconds"
+      "what": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "who": "Buddha"
     },
     {
-      "what": "Something mindful something something"
+      "what": "Yesterday is history, tomorrow is a mystery, today is a gift. That's why it's called the present",
+      "who": "Oogway"
+    },
+    {
+      "what": "Surrender to what is. Let go of what was. Have faith in what will be.",
+      "who": "Sonia Ricotti"
+    },
+    {
+      "what": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+      "who": "Thich Nhat Hanh"
+    },
+    {
+      "what": "Mindfulness isn’t difficult. We just need to remember to do it.",
+      "who": "Sharon Salzberg"
+    },
+    {
+      "what": "Be happy in the moment, that’s enough. Each moment is all we need, not more.",
+      "who": "Mother Teresa"
     }
   ]
 }
