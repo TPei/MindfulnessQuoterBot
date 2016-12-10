@@ -26,6 +26,8 @@ Made by @tpei_bots
 The code is open source and can be found here: https://github.com/TPei/MindfulnessQuoterBot
 
 If there are persisting problem with this bot or you'd like to request changes, open an issue here: https://github.com/TPei/MindfulnessQuoterBot/issues/new
+
+Right now there are #{RandomQuoter.count} different quotes that this bot will respond with.
       MESSAGE
     elsif args[0].include?('/quote')
       RandomQuoter.quote
